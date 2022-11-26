@@ -6,5 +6,5 @@ You can find the components list in the wiki section of the project.
 Moving further: The board was in-house manufactured using milling machine. 
 Link to the website of mill machine is provided in case you want to have a look at the machine.
 For all project related documents one can refer the wiki section of the project.
-Once the designing is done. Gerber files are generated. How to generated the gerb files in Altium Designer: https://www.altium.com/documentation/altium-designer/workspacemanager-dlg-gerbersetup-formgerber-setup-ad
+Once the designing is done. Gerber files are generated. How to generate the gerb files in Altium Designer: https://www.altium.com/documentation/altium-designer/workspacemanager-dlg-gerbersetup-formgerber-setup-ad
 One can manufacture the board anywhere in the world with PCB board manufacturing capability. I used Milling Machine to manufacture my board.
