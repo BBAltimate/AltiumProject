@@ -1,6 +1,6 @@
 Project Description
 The Low pass Filter is designed for the 30 W audio input.
-Whole idea of creating this circuit was to attenuate the noise from the audio signal and produce a better output circuit. 
+Whole idea of creating this circuit was to attenuate the noise from the audio signal and produce a better output signal. 
 The circuit is designed with minimal and easily available components which can be ordered from: https://www.digikey.ca/
 You can find the components list in the wiki section of the project.
 Moving further: The board was in-house manufactured using milling machine. 
